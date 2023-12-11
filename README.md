@@ -23,4 +23,4 @@
 
   ## Contact
   
-  If you have any questions, please contact Shiben Liu at [liushiben@sia.cn].
+  If you have any questions, please contact Shiben Liu at liushiben@sia.cn.
