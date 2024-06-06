@@ -21,11 +21,7 @@
   --model_path=./checkpoint/generator_600.pth
   ```
 
-  ## Contact
-  
-  If you have any questions, please contact Shiben Liu at liushiben@sia.cn.
-
-  ## Contact
+  ## Citation
 @article{liu2024wavelet,
   title={Wavelet-pixel domain progressive fusion network for underwater image enhancement},
   author={Liu, Shiben and Fan, Huijie and Wang, Qiang and Han, Zhi and Guan, Yu and Tang, Yandong},
@@ -34,3 +30,7 @@
   year={2024},
   publisher={Elsevier}
 }
+
+  ## Contact
+  
+  If you have any questions, please contact Shiben Liu at liushiben@sia.cn.
