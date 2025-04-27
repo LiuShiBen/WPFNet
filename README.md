@@ -6,7 +6,7 @@ The *official* repository for  [Wavelet-pixel domain progressive fusion network 
 ```
 Our work proposes a “Wavelet-pixel domain progressive fusion network for underwater image enhancement” (WPFNet). The proposed WPFNet progressively merge frequency features capturing fine-grained details and spatial features with rich color and illumination information.
 ```
-![](.\doc\WPFNet.png)
+![](./doc/WPFNet.png)
 
 ## Getting Started
 
