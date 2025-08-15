@@ -1,6 +1,9 @@
 ## Wavelet-pixel domain progressive fusion network for underwater image enhancement (WPFNet)
 
-The *official* repository for  [Wavelet-pixel domain progressive fusion network for underwater image enhancement](https://www.sciencedirect.com/science/article/abs/pii/S095070512400683X).
+<div align="center"> 
+
+🎯Our paper has been accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/abs/pii/S095070512400683X)  
+</div>
 
 ### Introduction
 ```
