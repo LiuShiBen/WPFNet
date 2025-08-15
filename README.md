@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-🎯Our paper has been accepted by [Knowledge-Based Systems](https://www.sciencedirect.com/science/article/abs/pii/S095070512400683X)  
+🎯Our paper has been accepted by [Knowledge-Based Systems 2024](https://www.sciencedirect.com/science/article/abs/pii/S095070512400683X)  
 </div>
 
 ### Introduction
